@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 	<head>
   		<title>Endoperio Dental Center</title>
